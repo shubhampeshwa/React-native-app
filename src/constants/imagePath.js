@@ -1,0 +1,1 @@
+export { default as backButton } from '../assets/images/back.png';
